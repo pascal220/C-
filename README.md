@@ -1,2 +1,2 @@
 # Games
-Fun games, for learning and playing. 
+Projects undertaken in C++
